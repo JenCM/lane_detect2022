@@ -4,3 +4,8 @@
 ## Collaborators: Jen, Yichen
 
 Purpose: Explore image editing with numpy (to understand what's under the hood with package basic functions for converting to grayscale, etc.)
+
+Steps:
+    Convert color photo to grayscale
+    Apply Gaussian blur
+    Canny edge detection
